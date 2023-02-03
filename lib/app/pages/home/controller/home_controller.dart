@@ -7,7 +7,7 @@ import 'home_state.dart';
 class HomeController extends Cubit<HomeState> {
   final ProductsRepository _productsRepository;
 
-  HomeController(read, {required ProductsRepository productsRepository})
+  HomeController({required ProductsRepository productsRepository})
       : _productsRepository = productsRepository,
         super(const HomeState.initial());
 

@@ -5,7 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../../core/extensions/formatter_extension.dart';
 import '../../core/ui/base_state/base_state.dart';
 import '../../core/ui/helpers/size_extensions.dart';
-import '../../core/ui/styles/colors_app.dart';
+import '../../core/ui/styles/app_colors.dart';
 import '../../core/ui/styles/text_styles.dart';
 import '../../core/ui/widgets/delivery_app_bar.dart';
 import '../../dto/order_product_dto.dart';

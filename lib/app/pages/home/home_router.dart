@@ -14,8 +14,7 @@ class HomeRouter extends StatelessWidget {
     return RepositoryProvider<ProductsRepository>(
       create: (_) => ProductsRepositoryImpl(dio: context.read()),
       child: BlocProvider(
-        create: (context) =>
-            HomeController(context.read(), productsRepository: null),
+        create: (context) => HomeController(productsRepository: context.read()),
         child: const HomePage(),
       ),
     );

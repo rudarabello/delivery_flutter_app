@@ -43,7 +43,7 @@ class _DeliveryProductTile extends StatelessWidget {
                       product.price.currencyPtBr,
                       style: context.textStyles.textMedium.copyWith(
                         fontSize: 12,
-                        color: context.colors.secondary,
+                        color: context.appColors.secondary,
                       ),
                     ),
                   ),
@@ -66,7 +66,10 @@ class _DeliveryProductTile extends StatelessWidget {
     final controller = context.read<HomeController>();
     final productOrderResult = await Navigator.of(context).pushNamed(
       '/product_detail',
-      arguments: {'product': product, 'order': productOrder},
+      arguments: {
+        'product': product,
+        'order': productOrder,
+      },
     ) as OrderProductDto?;
 
     if (productOrderResult != null) {

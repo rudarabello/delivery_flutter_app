@@ -4,7 +4,12 @@ import 'package:match/match.dart';
 part 'register_state.g.dart';
 
 @match
-enum RegisterStatus { initial, register, success, error }
+enum RegisterStatus {
+  initial,
+  register,
+  success,
+  error,
+}
 
 class RegisterState extends Equatable {
   final RegisterStatus status;

@@ -53,7 +53,7 @@
    1. Clone this repository into your machine:
 
    ```bash  
-   git clone https://github.com/proz-tecnologia/PIT01GP08
+   git clone https://github.com/rudarabello/delivery_flutter_app
    ```
 
    2. In project root, and into each package, run this command:

@@ -1,30 +1,25 @@
 <p align="center">
-    <img src="assets\images\logo.png" width="100" alt="Logo App Vakinha Burger"/>
+    <img src="assets\images\logo.png" width="200" alt="Logo App Vakinha Burger"/>
 </p>
 
 <h1 align="center">Delivery Burger</h1>
 
----
 
 <h2>Topics 📋</h2>
 
    <p>
 
    - [📖 About](#-about)
-   - [🛠️ Features and Knowledges](#%EF%B8%8F-funcionalidades-e-tecnologias-estudadas)
+   - [🛠️ Features and Knowledges](#-features-and-knowledges)
    - [🤔 How to use](#-how-to-use)
 
    </p>
-
----
 
 <h2>📖 About</h2>
 
 <p>
     Project develop in 9th Dart Week from <a href="http://academiadoflutter.com.br/">Academia do Flutter</a>
 </p>
-
----
 
 <h2>🛠️ Features and Knowledges</h2>
   <p>
@@ -45,7 +40,6 @@
 
 <h2>🤔 How to use</h2>
 
-```
    Previously install and configure Flutter  and json_rest_server on your machine:
    
    * https://flutter.dev/docs/get-started/install
@@ -70,14 +64,12 @@
    ```bash
    flutter run 
    ```
-```
 
----
 
  <table>
   <tr>
  
     <td align="center"><a href="https://github.com/rudarabello"><sub><b>Rudá Rabello</b></sub></a><br/></td>
-
+</tr>
 
 </table>

@@ -10,7 +10,7 @@
    <p>
 
    - [📖 About](#-about)
-   - [🛠️ Features and Knowledges](#-features-and-knowledges)
+   - [🛠️ Features and Knowledges](#-Features-and-Knowledges)
    - [🤔 How to use](#-how-to-use)
 
    </p>
@@ -22,7 +22,9 @@
 </p>
 
 <h2>🛠️ Features and Knowledges</h2>
+
   <p>
+    
 - API consume with Dio
 - BLoc as State Management
 - Login and Logout 
@@ -34,9 +36,9 @@
 - Mixins
 - Globalkey management
 - Shopping cart
-   </p>
+   
+</p>
 
----
 
 <h2>🤔 How to use</h2>
 
@@ -64,12 +66,9 @@
    ```bash
    flutter run 
    ```
+<h2>:office_worker: Made by</h2>
 
-
- <table>
+<table>
   <tr>
- 
-    <td align="center"><a href="https://github.com/rudarabello"><sub><b>Rudá Rabello</b></sub></a><br/></td>
-</tr>
-
+    <td align="center"><a href="https://www.linkedin.com/in/ruda-rabello-da-silva/"><img src="https://avatars.githubusercontent.com/u/95311365?s=96&v=4" width="80px;" alt="Rudá Rabello"/><br /><sub><b>Rudá Rabello</b></sub></a><br /><a href="https://www.linkedin.com/in/ruda-rabello-da-silva/"title="Code">💻</a></td></td>
 </table>
